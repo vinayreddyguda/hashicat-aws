@@ -7,6 +7,7 @@
 
 variable "prefix" {
   description = "This prefix will be included in the name of most resources."
+  bucket_prefix = "vinayreddyguda"
 }
 
 variable "region" {
